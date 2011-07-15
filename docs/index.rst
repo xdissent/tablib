@@ -51,7 +51,7 @@ and `The Sunlight Foundation <http://sunlightfoundation.com/>`_ use Tablib inter
 
 
 
-**Greg Thorton**
+**Greg Thornton**
    Tablib by @kennethreitz saved my life. I had to consolidate like 5 huge poorly maintained lists of domains and data. It was a breeze!
 
 **Dave Coutts**
